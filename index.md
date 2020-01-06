@@ -70,4 +70,4 @@ Engage in the CSTC-CITI ICG 2018 Tech Analyst Program, and became a member of th
 ### Competition 
 2nd Place in the Master Track of the Russell Investments International Case Competition (Nov. 2019)
 
-![Competition Claim photo](https://github.com/LouiseHash/LouiseHash.github.io/blob/master/img/photos/claim2.jpg)
+![Competition Claim photo](https://github.com/LouiseHash/LouiseHash.github.io/blob/master/img/photos/claim2.jpg?raw=true)
