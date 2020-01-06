@@ -6,6 +6,7 @@ layout: default
 ### Self Introduction
 I am always finding a suitable niche for me, which could let me not only present technical skill but also satisfy my intrigue about analyzing information. As a result, pursuing a master degree in MSIS is my best solution. In this inter-discipline, I would like to accumulate discretion about data and information and enhance analytic technical skills to pursue my super matching position. Having a passion for data analytics, solid basic knowledge of computer science and software engineering, plus practical experience about the database and financial system, I am eager to position myself at the data engineering domain. 
 
+![University of Washington Paccar Hall](https://github.com/LouiseHash/LouiseHash.github.io/blob/master/img/photos/university.jpg?raw=true)
 ### Education
 #### University of Washington (2019-2020)
 Master of Science - MS  Information system
@@ -29,7 +30,7 @@ GitHub Link: https://github.com/LouiseHash/Rotation_Equivariant_CNN_Ensembles
 #### ICG Tech Analyst, Citi Shanghai (Jul.2018 - Apr.2019)
 Engage in the CSTC-CITI ICG 2018 Tech Analyst Program, and became a member of three Groups at the same time:
 
-1. Shanghai ICG(Institutional Clients Group) Security Group:
+(1) Shanghai ICG(Institutional Clients Group) Security Group:
 
 ⦿	Attend the Analyst Program intense training and study knowledge of finance and investment banking, as well as technology such as C#, Python, SQL Server, and Linux. 
 
@@ -37,7 +38,7 @@ Engage in the CSTC-CITI ICG 2018 Tech Analyst Program, and became a member of th
 
 ⦿	Sort out several business security reports and provided several presentations for CITI events and festival activities. 
 
-2. ICG APAC MSST Custody PS Group (Institutional Clients Group APAC Market Security Service Technology Custody Production Support Group):
+(2) ICG APAC MSST Custody PS Group (Institutional Clients Group APAC Market Security Service Technology Custody Production Support Group):
 
 ⦿	Provide monitor and technical support for COPES and CBS systems via ITRS system and ServiceNow system.
 
@@ -45,7 +46,7 @@ Engage in the CSTC-CITI ICG 2018 Tech Analyst Program, and became a member of th
 
 ⦿	Communicate with clients, including operators from Citi and developers, requiring understanding both business terms and technology expertise.
 
-3. ICG GLOBAL SST TIG Group (ICG GLOBAL Security Service Technology Improvement Group):
+(3) ICG GLOBAL SST TIG Group (ICG GLOBAL Security Service Technology Improvement Group):
 
 ⦿	Supervise the service changes raised by security tech groups which can only be released with the approval of technical support engineers 
 
@@ -71,3 +72,13 @@ Engage in the CSTC-CITI ICG 2018 Tech Analyst Program, and became a member of th
 2nd Place in the Master Track of the Russell Investments International Case Competition (Nov. 2019)
 
 ![Competition Claim photo](https://github.com/LouiseHash/LouiseHash.github.io/blob/master/img/photos/claim2.jpg?raw=true)
+
+### Main Courses
+#### Computer Science:
+Computer Networks/ Data Structure and Algorithm/ Database Systems and Application/ J2EE/ Java Programming/ Software Requirements/ Matlab Programming/ Object-Oriented Analysis and Design/ Operating Systems
+#### Mathematics:
+Advanced Mathematics/ Linear Algebra/ Probability Theory and Statistics 1/ Software Engineering Mathematics
+#### Data Analysis and Information System:
+Business Data Analysis/ Introduction To Data Mining And Analytics/ Information Technology and Organiational Stratergy/ Operations And Business Process Management/ Advanced Database Systems and Data Warehouses/ Advanced Business Data Mining
+
+
