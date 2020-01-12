@@ -11,19 +11,33 @@ Example:
 
 Input:
 +------+-----------+--------------+------------+-----------+------------+
+
 | id   | action    | question_id  | answer_id  | q_num     | timestamp  |
+
 +------+-----------+--------------+------------+-----------+------------+
+
 | 5    | show      | 285          | null       | 1         | 123        |
+
 | 5    | answer    | 285          | 124124     | 1         | 124        |
+
 | 5    | show      | 369          | null       | 2         | 125        |
+
 | 5    | skip      | 369          | null       | 2         | 126        |
+
 +------+-----------+--------------+------------+-----------+------------+
+
 Output:
+
 +-------------+
+
 | survey_log  |
+
 +-------------+
+
 |    285      |
+
 +-------------+
+
 Explanation:
 question 285 has answer rate 1/1, while question 369 has 0/1 answer rate, so output 285.
 
@@ -40,9 +54,7 @@ where action='answer'
 
 group by question_id
 
-order by Total DESC
-
-      ) as subquery
+order by Total DESC )
       
 limit 1
 
