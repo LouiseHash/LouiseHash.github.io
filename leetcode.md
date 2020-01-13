@@ -102,19 +102,16 @@ Explanation:
 question 285 has answer rate 1/1, while question 369 has 0/1 answer rate, so output 285.
 
 #### My solution:
+
 select question_id as survey_log
 
-from 
-
-(select question_id,count(*) Total
-
-from survey_log
+from (select question_id,count(*) Total from survey_log
 
 where action='answer'
 
 group by question_id
 
-order by Total DESC )
+order by Total DESC ) se1
       
 limit 1
 
