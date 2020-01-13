@@ -1,5 +1,67 @@
 ## Leetcode Database:
 
+### 177. Nth Highest Salary
+Write a SQL query to get the nth highest salary from the Employee table.
+
++----+--------+
+
+| Id | Salary |
+
++----+--------+
+
+| 1  | 100    |
+
+| 2  | 200    |
+
+| 3  | 300    |
+
++----+--------+
+
+For example, given the above Employee table, the nth highest salary where n = 2 is 200. If there is no nth highest salary, then the query should return null.
+
++------------------------+
+
+| getNthHighestSalary(2) |
+
++------------------------+
+
+| 200                    |
+
++------------------------+
+
+#### My solution:
+CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
+
+ BEGIN
+ 
+   RETURN (
+   
+      select 
+      
+      IF(N > (select count(*)
+      
+from (select distinct Salary from Employee) se3),NULL,Salary) as result
+
+       from (
+       
+     select distinct Salary
+     
+       FROM Employee 
+       
+       order by Salary DESC
+       
+       limit N
+       
+       )se1
+       
+       order by Salary
+       
+       limit 1
+       
+   );
+   
+ END
+
 ### 578. Get Highest Answer Rate Question
 Get the highest answer rate question from a table survey_log with these columns: id, action, question_id, answer_id, q_num, timestamp.
 
