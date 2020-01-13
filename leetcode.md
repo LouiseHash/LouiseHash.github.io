@@ -40,11 +40,9 @@ CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
       
       IF(N > (select count(*)
       
-from (select distinct Salary from Employee) se3),NULL,Salary) as result
+     from (select distinct Salary from Employee) se3),NULL,Salary) as result
 
-       from (
-       
-     select distinct Salary
+      from (select distinct Salary
      
        FROM Employee 
        
