@@ -60,6 +60,11 @@ CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
    
  END
 
+<div class="text-purple">
+### 180. Consecutive Numbers
+</div>
+
+
 ### 578. Get Highest Answer Rate Question
 Get the highest answer rate question from a table survey_log with these columns: id, action, question_id, answer_id, q_num, timestamp.
 
