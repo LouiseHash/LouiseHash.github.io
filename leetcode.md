@@ -161,7 +161,7 @@ select Department,Employee,Salary from
 
 (select D.Name as Department, E.Name as Employee, Salary,
 
-RANK () OVER ( 
+#### RANK () OVER ( 
 
  PARTITION BY DepartmentId 
  
@@ -175,6 +175,53 @@ where E.DepartmentId=D.Id) se1
 
 where salary_rank=1
 
+### 570. Managers with at Least 5 Direct Reports
+The Employee table holds all employees including their managers. Every employee has an Id, and there is also a column for the manager Id.
+
++------+----------+-----------+----------+
+
+|Id    |Name 	  |Department |ManagerId |
+
++------+----------+-----------+----------+
+
+|101   |John 	  |A 	      |null      |
+
+|102   |Dan 	  |A 	      |101       |
+
+|103   |James 	  |A 	      |101       |
+
+|104   |Amy 	  |A 	      |101       |
+
+|105   |Anne 	  |A 	      |101       |
+
+|106   |Ron 	  |B 	      |101       |
+
++------+----------+-----------+----------+
+
+Given the Employee table, write a SQL query that finds out managers with at least 5 direct report. For the above table, your SQL query should return:
+
++-------+
+
+| Name  |
+
++-------+
+
+| John  |
+
++-------+
+
+#### My solution:
+select Name 
+from Employee 
+where Id in (select e2.ManagerId mid
+
+from Employee e1,Employee e2
+
+where e1.Id=e2.ManagerId
+
+group by e2.ManagerId
+
+#### having count(*)>4) 
 
 ### 578. Get Highest Answer Rate Question
 Get the highest answer rate question from a table survey_log with these columns: id, action, question_id, answer_id, q_num, timestamp.
