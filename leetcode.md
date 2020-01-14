@@ -60,9 +60,50 @@ CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
    
  END
 
-<div class="text-purple">
-### 180. Consecutive Numbers
-</div>
+### 180. Consecutive Numbers ***
+Write a SQL query to find all numbers that appear at least three times consecutively.
+
++----+-----+
+
+| Id | Num |
+
++----+-----+
+
+| 1  |  1  |
+
+| 2  |  1  |
+
+| 3  |  1  |
+
+| 4  |  2  |
+
+| 5  |  1  |
+
+| 6  |  2  |
+
+| 7  |  2  |
+
++----+-----+
+
+For example, given the above Logs table, 1 is the only number that appears consecutively for at least three times.
+
++-----------------+
+
+| ConsecutiveNums |
+
++-----------------+
+
+| 1               |
+
++-----------------+
+
+#### My solution:
+
+Select distinct l1.Num ConsecutiveNums 
+
+from Logs l1,Logs l2, Logs l3
+
+where l2.Id=l1.Id+1 and l3.Id=l1.Id+2 and l2.Num=l1.Num and l3.Num=l1.Num
 
 
 ### 578. Get Highest Answer Rate Question
