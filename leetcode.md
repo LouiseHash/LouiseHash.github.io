@@ -101,7 +101,7 @@ For example, given the above Logs table, 1 is the only number that appears conse
 
 Select distinct l1.Num ConsecutiveNums 
 
-from Logs l1,Logs l2, Logs l3
+#### from Logs l1,Logs l2, Logs l3
 
 where l2.Id=l1.Id+1 and l3.Id=l1.Id+2 and l2.Num=l1.Num and l3.Num=l1.Num
 
