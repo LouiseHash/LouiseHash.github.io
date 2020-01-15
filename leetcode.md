@@ -1,7 +1,7 @@
 ## Leetcode Database:
 
 ### 177. Nth Highest Salary
-<font color='red'>Write a SQL query to get the nth highest salary from the Employee table.</font>
+<font color=#FFFFFF>Write a SQL query to get the nth highest salary from the Employee table.</font>
 
 +----+--------+
 
