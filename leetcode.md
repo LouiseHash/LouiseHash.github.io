@@ -701,8 +701,6 @@ On 2019-07-02, user 2 purchased using mobile only, user 3 purchased using deskto
 ### My solution:
 (need to create a table first according to the result table's no-null columns)
 
-# Write your MySQL query statement below
-
 SELECT 
 
     ta.spend_date,
