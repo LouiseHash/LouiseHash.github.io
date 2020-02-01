@@ -702,77 +702,35 @@ On 2019-07-02, user 2 purchased using mobile only, user 3 purchased using deskto
 (need to create a table first according to the result table's no-null columns)
 
 SELECT 
-
     ta.spend_date,
-    
     ta.platform,
-    
     ifnull(tb.total_amount, 0) AS total_amount,
-    
     ifnull(tb.total_users, 0) AS total_users
-    
 FROM (
-
     SELECT DISTINCT(spend_date), a.platform
-    
     FROM Spending JOIN
-    
         (   SELECT 'desktop' AS platform UNION
-        
             SELECT 'mobile' AS platform UNION
-            
             SELECT 'both' AS platform
-            
         ) AS a 
-        
 ) AS ta
-
 LEFT JOIN
-
-(select spend_date,platform,sum(a) total_amount, count(*) total_users from 
-
-(select user_id,spend_date,count(*) num,sum(amount) a ,platform from Spending 
-
-group by user_id,spend_date
-
-having num=1 and platform='desktop')se2
-
-group by spend_date
-
-union
-
+(
 select spend_date,platform,sum(a) total_amount, count(*) total_users 
-
 from 
-
-(select user_id,spend_date,count(*) num,sum(amount) a,platform
-
-from Spending
-
-group by user_id,spend_date
-
-having num=1 and platform='mobile')se4
-
-group by spend_date
-
-union
-
-select spend_date,'both' as platform,sum(a) total_amount, count(*) total_users 
-
-from 
-
-(select  user_id,spend_date,count(*) num,sum(amount) a
-
+(select user_id,spend_date,count(*) num,amount a,platform
 from Spending 
-
 group by user_id,spend_date
-
+having num=1)se4
+group by spend_date,platform
+union
+select spend_date,'both' as platform,sum(a) total_amount, count(*) total_users 
+from 
+(select  user_id,spend_date,count(*) num,sum(amount) a
+from Spending 
+group by user_id,spend_date
 having num=2)se3
-
 group by spend_date
-
 )as tb
-
 ON ta.platform = tb.platform
-
 AND ta.spend_date = tb.spend_date
