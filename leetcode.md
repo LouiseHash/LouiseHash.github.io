@@ -1,5 +1,18 @@
 ## Leetcode Database:
 
+### 176. Second Highest Salary ***
+select max(Salary) as SecondHighestSalary  from
+
+   ( select Salary,
+   
+    Rank() over (order by Salary desc) rank
+    
+    from Employee
+    
+    ) se1
+    
+where se1.rank=2
+
 ### 177. Nth Highest Salary
 <font color=#062F67>Write a SQL query to get the nth highest salary from the Employee table.</font>
 
