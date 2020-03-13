@@ -17,8 +17,9 @@ Bachelor's degree - Computer Software Engineering
 GPA: 3.69
 
 ### Sample Data analysis Code:
-![Abalone dataset analysis](https://github.com/LouiseHash/data-analysis-for-abalone-dataset/blob/master/Data%20analysis%20for%20abalone.ipynb)
+-[Abalone dataset analysis](https://github.com/LouiseHash/data-analysis-for-abalone-dataset/blob/master/Data%20analysis%20for%20abalone.ipynb)
 
+-[Data mining basic methods sample coding Python](https://github.com/LouiseHash/data-mining-python)
 
 ### Experience
 
