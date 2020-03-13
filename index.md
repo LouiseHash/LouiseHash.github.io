@@ -16,6 +16,10 @@ GPA:3.84
 Bachelor's degree - Computer Software Engineering
 GPA: 3.69
 
+### Sample Data analysis Code:
+![Abalone dataset analysis](https://github.com/LouiseHash/data-analysis-for-abalone-dataset/blob/master/Data%20analysis%20for%20abalone.ipynb)
+
+
 ### Experience
 
 #### Research Assistant, Predictive Modeling and Machine Learning Laboratory at Purdue University (Sep.2019 - )
