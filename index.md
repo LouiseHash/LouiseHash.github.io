@@ -21,6 +21,8 @@ GPA: 3.69
 
 -[Data mining basic methods sample coding Python](https://github.com/LouiseHash/data-mining-python)
 
+-[Tableau sample: IMDB visualization](https://public.tableau.com/profile/wenjun.yu#!/vizhome/WenjunYu_IMDB/DashboardIMDB?publish=yes)
+
 ### Experience
 
 #### Research Assistant, Predictive Modeling and Machine Learning Laboratory at Purdue University (Sep.2019 - )
