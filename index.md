@@ -21,6 +21,7 @@ GPA: 3.69
 
 -[Data mining basic methods sample coding Python](https://github.com/LouiseHash/data-mining-python)
 
+### Data visualization with Tableau:
 -[Tableau sample: IMDB visualization](https://public.tableau.com/profile/wenjun.yu#!/vizhome/WenjunYu_IMDB/DashboardIMDB?publish=yes)
 
 ### Experience
@@ -87,5 +88,7 @@ Computer Networks/ Data Structure and Algorithm/ Database Systems and Applicatio
 Advanced Mathematics/ Linear Algebra/ Probability Theory and Statistics 1/ Software Engineering Mathematics
 #### Data Analysis and Information System:
 Business Data Analysis/ Introduction To Data Mining And Analytics/ Information Technology and Organiational Stratergy/ Operations And Business Process Management/ Advanced Database Systems and Data Warehouses/ Advanced Business Data Mining
-
+### Online course:
+#### Hadoop system:
+-[Udemy Certificate for Hadoop - Tame your Big Data](https://www.udemy.com/certificate/UC-3372f101-2d00-4b57-b980-8e491e010abc/)
 
