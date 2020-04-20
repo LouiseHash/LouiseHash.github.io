@@ -6,7 +6,6 @@ layout: default
 ### Self Introduction
 I am always finding a suitable niche for me, which could let me not only present technical skill but also satisfy my intrigue about analyzing information. As a result, pursuing a master degree in MSIS is my best solution. In this inter-discipline, I would like to accumulate discretion about data and information and enhance analytic technical skills to pursue my super matching position. Having a passion for data analytics, solid basic knowledge of computer science and software engineering, plus practical experience about the database and financial system, I am eager to position myself at the data engineering domain. 
 
-![University of Washington Paccar Hall](https://github.com/LouiseHash/LouiseHash.github.io/blob/master/img/photos/university.jpg?raw=true)
 ### Education
 #### University of Washington (2019-2020)
 Master of Science - MS  Information system
@@ -93,3 +92,5 @@ Business Data Analysis/ Introduction To Data Mining And Analytics/ Information T
 -[Udemy Certificate for Hadoop - Tame your Big Data](https://www.udemy.com/certificate/UC-3372f101-2d00-4b57-b980-8e491e010abc/)
 
 -[Udemy Certificate for Spark - Tame your Big Data with Apache Spark and Python](https://www.udemy.com/certificate/UC-70249a28-0df4-484b-b052-8f8b67ea90ee/)
+
+![University of Washington Paccar Hall](https://github.com/LouiseHash/LouiseHash.github.io/blob/master/img/photos/university.jpg?raw=true)
