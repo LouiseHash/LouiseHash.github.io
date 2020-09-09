@@ -15,7 +15,10 @@ GPA:3.84
 Bachelor's degree - Computer Software Engineering
 GPA: 3.69
 
-### Sample Data analysis Code:
+### Sample Data Science Code:
+
+-[Data Science Portifolio](https://github.com/LouiseHash/Data-science-portifolio)
+
 -[Abalone dataset analysis](https://github.com/LouiseHash/data-analysis-for-abalone-dataset/blob/master/Data%20analysis%20for%20abalone.ipynb)
 
 -[Data mining basic methods sample coding Python](https://github.com/LouiseHash/data-mining-python)
@@ -25,7 +28,22 @@ GPA: 3.69
 
 ### Experience
 
-#### Research Assistant, Predictive Modeling and Machine Learning Laboratory at Purdue University (Sep.2019 - )
+### Data Engineer, University of Washington (Apr.2020 - Current)
+[Twitter Hadoop Project]
+
+⦿ Set up End-to-End automated data pipeline to analyze large scale Twitter data (about 80TB) using Python (MapReduce), Hadoop, and Linux Shell.
+
+⦿ Analyzed unstructured data to study trends in use of sensitive keywords based on geographic location and user characteristics.
+
+⦿ Leveraged data engineering and visualization skills to scale and optimize keyword search on billions of Tweets over an entire year and provided insights.
+
+[Financial article Google cloud Project]
+
+⦿ Extracted, transformed, and organized 5 Million+ financial articles, performing large-scale Exploratory Data Analysis (EDA) and Natural Language Processing (NLP) using Python, Spacy, SQL, BigQuery, Dataflow
+
+⦿ Designed and optimized entity extraction algorithm to identify and integrate geographical entities and calculated corresponding weights reducing 80% of running time.
+
+#### Machine Learning Engineer, Predictive Modeling and Machine Learning Laboratory at Purdue University (June.2019 - Oct.2019 )
 ⦿	Perform data analysis on rotated images, and implement image recognition algorithm for self-driving vehicles 
 
 ⦿	Core contributor in the implementation of a new developing machine learning algorithm: Open-sourced on GitHub. Core contributor, algorithm implementation, debugging, and online documentation.
