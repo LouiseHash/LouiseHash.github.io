@@ -31,7 +31,7 @@ GPA: 3.69
 
 #### Escalation Engineer - Data Analysis, Microsoft (Aug.2021 - Current)
 
--
+_
 
 
 
