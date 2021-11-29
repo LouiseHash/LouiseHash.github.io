@@ -3,11 +3,11 @@ layout: default
 ---
 
 
-### Hi, This is Wenjun (Louise) Yu
+## Hi, This is Wenjun (Louise) Yu
 
 With a great passion, solid programming skills in computer science and software engineering, plus plenty of knowledge and practical experiences in data analysis, data manipulation and statistical testing,  I'm always on my way to pursuing a career in data science. 
 
-### Education
+## Education:
 #### University of Washington (2019-2020)
 Master of Science - MS  Information system
 GPA:3.84
@@ -16,7 +16,9 @@ GPA:3.84
 Bachelor's degree - Computer Software Engineering
 GPA: 3.69
 
-### Sample Data Science Code:
+## Portfolio:
+
+#### - Sample Data Science Code:
 
 -[Data Science Portifolio](https://github.com/LouiseHash/Data-science-portifolio)
 
@@ -24,10 +26,10 @@ GPA: 3.69
 
 -[Data mining basic methods sample coding Python](https://github.com/LouiseHash/data-mining-python)
 
-### Data visualization with Tableau:
+#### - Data visualization with Tableau:
 -[Tableau sample: IMDB visualization](https://public.tableau.com/profile/wenjun.yu#!/vizhome/WenjunYu_IMDB/DashboardIMDB?publish=yes)
 
-### Experience
+## Experience:
 
 #### Escalation Engineer - Data Analysis, Microsoft (Aug.2021 - Current)
 
@@ -87,12 +89,12 @@ _
 
 ⦿	The project was selected as a ‘National Excellent Program’ and won funds from the National Students’ Platform for Innovation and Entrepreneurship Training Program.
 
-### Competition 
+## Competition 
 2nd Place in the Master Track of the Russell Investments International Case Competition (Nov. 2019)
 
 ![Competition Claim photo](https://github.com/LouiseHash/LouiseHash.github.io/blob/master/img/photos/claim2.jpg?raw=true)
 
-### Main Courses
+## Main Courses
 #### Computer Science:
 Computer Networks/ Data Structure and Algorithm/ Database Systems and Application/ J2EE/ Java Programming/ Software Requirements/ Matlab Programming/ Object-Oriented Analysis and Design/ Operating Systems
 #### Mathematics:
