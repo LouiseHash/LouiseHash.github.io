@@ -3,8 +3,9 @@ layout: default
 ---
 
 
-### Self Introduction
-I am always finding a suitable niche for me, which could let me not only present technical skill but also satisfy my intrigue about analyzing information. As a result, pursuing a master degree in MSIS is my best solution. In this inter-discipline, I would like to accumulate discretion about data and information and enhance analytic technical skills to pursue my super matching position. Having a passion for data analytics, solid basic knowledge of computer science and software engineering, plus practical experience about the database and financial system, I am eager to position myself at the data engineering domain. 
+### Hi, This is Wenjun (Louise) Yu
+
+With a great passion, solid programming skills in computer science and software engineering, plus plenty of knowledge and practical experiences in data analysis and data manipulation,  I'm always on my way to pursuing a career in data science. 
 
 ### Education
 #### University of Washington (2019-2020)
