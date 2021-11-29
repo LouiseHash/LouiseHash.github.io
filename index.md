@@ -5,7 +5,7 @@ layout: default
 
 ### Hi, This is Wenjun (Louise) Yu
 
-With a great passion, solid programming skills in computer science and software engineering, plus plenty of knowledge and practical experiences in data analysis and data manipulation,  I'm always on my way to pursuing a career in data science. 
+With a great passion, solid programming skills in computer science and software engineering, plus plenty of knowledge and practical experiences in data analysis, data manipulation and statistical testing,  I'm always on my way to pursuing a career in data science. 
 
 ### Education
 #### University of Washington (2019-2020)
