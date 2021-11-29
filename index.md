@@ -18,7 +18,7 @@ GPA: 3.69
 
 ## Portfolio:
 
-#### - Sample Data Science Code:
+####  Sample Data Science Code:
 
 -[Data Science Portifolio](https://github.com/LouiseHash/Data-science-portifolio)
 
@@ -26,18 +26,18 @@ GPA: 3.69
 
 -[Data mining basic methods sample coding Python](https://github.com/LouiseHash/data-mining-python)
 
-#### - Data visualization with Tableau:
+####  Data visualization with Tableau:
 -[Tableau sample: IMDB visualization](https://public.tableau.com/profile/wenjun.yu#!/vizhome/WenjunYu_IMDB/DashboardIMDB?publish=yes)
 
 ## Experience:
 
-#### - Escalation Engineer - Data Analysis, Microsoft (Aug.2021 - Current)
+####  Escalation Engineer - Data Analysis, Microsoft (Aug.2021 - Current)
 
 _
 
 
 
-#### - Data Analyst, ABC Legal Services (Apr.2021 - Aug. 2021)
+####  Data Analyst, ABC Legal Services (Apr.2021 - Aug. 2021)
 ⦿	Built ETL date pipeline to transform 400+ tables’ PostgreSQL relational database into AWS Redshift data warehouse that better satisfies analytics needs using AWS Glue, S3, AWS DMS.
 
 ⦿	Launched Analytics projects and generated 20+ reports for root cause investigation, insight generation and data validation via MySQL and PostgreSQL.
@@ -45,14 +45,14 @@ _
 ⦿	Designed dashboards and performed geographic data analysis for internal and external stakeholders’ business decision making and company wow factor using Tableau. (Company price map, Attorney/process-server route map) 
 
 
-#### - Business Intelligence Analyst, Genemod Corporation (Jan.2021 - Apr.2021)
+####  Business Intelligence Analyst, Genemod Corporation (Jan.2021 - Apr.2021)
 ⦿	Automated and simplified outbound leads selection process by reducing 80 percent processing time with implementing a customed supervised learning algorithm with a probabilistic model via Python.
 
 ⦿ Implemented user engagement metrics via complex SQL queries and designed 20 + visuals, 5+ interactive dashboards for sales team and internal stakeholders’ business decision making using AWS QuickSight.
 
 ⦿ Collaborated with engineering team to generate and validate bug tickets for testing and quality assurance with agile methodology.
 
-#### - Data Engineer Research Assistantship, University of Washington (Apr.2020 - Dec.2020)
+####  Data Engineer Research Assistantship, University of Washington (Apr.2020 - Dec.2020)
 [Twitter Hadoop Project]
 
 ⦿ Set up End-to-End automated data pipeline to analyze large scale Twitter data (about 80TB) using Python (MapReduce), Hadoop, and Linux Shell.
@@ -68,7 +68,7 @@ _
 ⦿ Designed and optimized entity extraction algorithm to identify and integrate geographical entities and calculated corresponding weights reducing 80% of running time.
 
 
-#### - Application Support Analyst, Citi Shanghai (Jul.2018 - Apr.2019)
+####  Application Support Analyst, Citi Shanghai (Jul.2018 - Apr.2019)
 ⦿	Fixed 300+ technical issues in Citi Custody Systems (Citi’s asset management system for 100+ corporate banking clients such as JP Morgan and Hong Kong Stock Exchange) by deep diving via SQL queries. 
 
 ⦿	Created dashboards of 10+ Tableau visuals (e.g. top customer issues by region) that was delivered to senior management on a monthly basis to improve customer service for banking clients. 
@@ -78,7 +78,7 @@ _
 ⦿	Initiated and discussed 10+ technical improvement plans with global internal stakeholders to provide better services and monitored over 200 system technical changes and identified problems before release. 
 
 
-#### - Researcher in Trusted Digital Technology Lab, East China Normal University (Sep.2016 - Jun.2017)
+####  Researcher in Trusted Digital Technology Lab, East China Normal University (Sep.2016 - Jun.2017)
 ⦿	Researched the model of the formal method of the new encryption schemes or protocols applicable for secure outsourced computation, such as user input privacy and output privacy.
 
 ⦿	Studied the generic construction of secure outsourced computation without exploiting (fully) homomorphic encryption schemes.
