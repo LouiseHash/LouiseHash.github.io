@@ -31,6 +31,9 @@ GPA: 3.69
 
 #### Escalation Engineer - Data Analysis, Microsoft (Aug.2021 - Current)
 
+-
+
+
 
 #### Data Analyst, ABC Legal Services (Apr.2021 - Aug. 2021)
 ⦿	Built ETL date pipeline to transform 400+ tables’ PostgreSQL relational database into AWS Redshift data warehouse that better satisfies analytics needs using AWS Glue, S3, AWS DMS.
