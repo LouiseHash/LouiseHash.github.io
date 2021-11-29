@@ -28,7 +28,25 @@ GPA: 3.69
 
 ### Experience
 
-### Data Engineer, University of Washington (Apr.2020 - Current)
+#### Escalation Engineer - Data Analysis, Microsoft (Aug.2021 - Current)
+
+
+#### Data Analyst, ABC Legal Services (Apr.2021 - Aug. 2021)
+⦿	Built ETL date pipeline to transform 400+ tables’ PostgreSQL relational database into AWS Redshift data warehouse that better satisfies analytics needs using AWS Glue, S3, AWS DMS.
+
+⦿	Launched Analytics projects and generated 20+ reports for root cause investigation, insight generation and data validation via MySQL and PostgreSQL.
+
+⦿	Designed dashboards and performed geographic data analysis for internal and external stakeholders’ business decision making and company wow factor using Tableau. (Company price map, Attorney/process-server route map) 
+
+
+#### Business Intelligence Analyst, Genemod Corporation (Jan.2021 - Apr.2021)
+⦿	Automated and simplified outbound leads selection process by reducing 80 percent processing time with implementing a customed supervised learning algorithm with a probabilistic model via Python.
+
+⦿ Implemented user engagement metrics via complex SQL queries and designed 20 + visuals, 5+ interactive dashboards for sales team and internal stakeholders’ business decision making using AWS QuickSight.
+
+⦿ Collaborated with engineering team to generate and validate bug tickets for testing and quality assurance with agile methodology.
+
+#### Data Engineer Research Assistantship, University of Washington (Apr.2020 - Dec.2020)
 [Twitter Hadoop Project]
 
 ⦿ Set up End-to-End automated data pipeline to analyze large scale Twitter data (about 80TB) using Python (MapReduce), Hadoop, and Linux Shell.
@@ -43,44 +61,16 @@ GPA: 3.69
 
 ⦿ Designed and optimized entity extraction algorithm to identify and integrate geographical entities and calculated corresponding weights reducing 80% of running time.
 
-#### Machine Learning Engineer, Predictive Modeling and Machine Learning Laboratory at Purdue University (June.2019 - Oct.2019 )
-⦿	Perform data analysis on rotated images, and implement image recognition algorithm for self-driving vehicles 
 
-⦿	Core contributor in the implementation of a new developing machine learning algorithm: Open-sourced on GitHub. Core contributor, algorithm implementation, debugging, and online documentation.
+#### Application Support Analyst, Citi Shanghai (Jul.2018 - Apr.2019)
+⦿	Fixed 300+ technical issues in Citi Custody Systems (Citi’s asset management system for 100+ corporate banking clients such as JP Morgan and Hong Kong Stock Exchange) by deep diving via SQL queries. 
 
-GitHub Link: https://github.com/LouiseHash/Rotation_Equivariant_CNN_Ensembles
+⦿	Created dashboards of 10+ Tableau visuals (e.g. top customer issues by region) that was delivered to senior management on a monthly basis to improve customer service for banking clients. 
 
-⦿	Using Python, Pytorch, sklearn, linear regression, decision tree, Database (SQL server), R, SAS, HTML, Markdown, shell on local machine and supercomputer
+⦿	Maintained 5 relational databases and optimized 100+ table views and stored procedures to improve performance in delivering data reports (e.g. billing data, transaction dates, invoices. etc.) to customers. 
 
-#### ICG Tech Analyst, Citi Shanghai (Jul.2018 - Apr.2019)
-Engage in the CSTC-CITI ICG 2018 Tech Analyst Program, and became a member of three Groups at the same time:
+⦿	Initiated and discussed 10+ technical improvement plans with global internal stakeholders to provide better services and monitored over 200 system technical changes and identified problems before release. 
 
-(1) Shanghai ICG(Institutional Clients Group) Security Group:
-
-⦿	Attend the Analyst Program intense training and study knowledge of finance and investment banking, as well as technology such as C#, Python, SQL Server, and Linux. 
-
-⦿	Take charge of the project manager of a portfolio system project in the training session
-
-⦿	Sort out several business security reports and provided several presentations for CITI events and festival activities. 
-
-(2) ICG APAC MSST Custody PS Group (Institutional Clients Group APAC Market Security Service Technology Custody Production Support Group):
-
-⦿	Provide monitor and technical support for COPES and CBS systems via ITRS system and ServiceNow system.
-
-⦿	Analyze C# and VB codes and system data and provide SQL stored procedure modification script to the developer
-
-⦿	Communicate with clients, including operators from Citi and developers, requiring understanding both business terms and technology expertise.
-
-(3) ICG GLOBAL SST TIG Group (ICG GLOBAL Security Service Technology Improvement Group):
-
-⦿	Supervise the service changes raised by security tech groups which can only be released with the approval of technical support engineers 
-
-⦿	Join group meetings and provide and discuss technology improvement schemes.  
-
-#### Java intern, Shanghai QuantDo Network Technology Co., Ltd. (Jul.2017 - Feb.2018)
-⦿	Assisted with the development and maintenance of a management system for OTC derivatives, which provides integration services of the transaction, risk control, settlement, and evaluation.
-
-⦿ Mostly utilized Java, AngularJS 
 
 #### Researcher in Trusted Digital Technology Lab, East China Normal University (Sep.2016 - Jun.2017)
 ⦿	Researched the model of the formal method of the new encryption schemes or protocols applicable for secure outsourced computation, such as user input privacy and output privacy.
